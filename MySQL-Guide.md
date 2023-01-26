@@ -4,6 +4,7 @@ MySQL is a relational database management system (RDBMS) developed by Oracle tha
 # MySQL Quickstart Guide
 
 Author: Harry Malusare
+
 It's quick a tutorial to get you up to speed for MySQL!  
 
 ------
